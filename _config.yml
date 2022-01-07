@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lrc2585
 
 # Build settings
-theme: Clean
+theme: minima
 plugins:
   - jekyll-feed
 
